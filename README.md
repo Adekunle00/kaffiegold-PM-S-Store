@@ -1,1 +1,1 @@
-# kaffiegold-PM-S-Store
+# kaffiegold-PMS-Store
